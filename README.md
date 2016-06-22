@@ -12,3 +12,12 @@ https://www.sitepoint.com/make-responsive-svg-graphs-infographics/
 
 # 4) SVG tools:
 https://boxy-svg.com/main.html#about
+
+# 5) Bootstrap:
+https://www.webcodegeeks.com/wp-content/uploads/2015/12/Bootstrap-Programming-Cookbook.pdf
+
+# 6) HTML:
+https://www.webcodegeeks.com/wp-content/uploads/2015/04/HTML5-Programming-Cookbook.pdf
+
+# 7) jQuery:
+https://www.webcodegeeks.com/wp-content/uploads/2015/10/jQuery-Programming-Cookbook.pdf
